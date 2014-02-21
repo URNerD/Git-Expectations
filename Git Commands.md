@@ -20,14 +20,16 @@ These are some of the essential git commands, roughly in the order in which you 
 
 [git clone URL-of-the-repository-you-want-to-clone](http://gitref.org/creating/#clone) -
 
-[git status]() -
+[git status](http://gitref.org/basic/#status) -
 
-[git add name-of-file-you-want-to-manage-with-git]() -
+[git add name-of-file-you-want-to-manage-with-git](http://gitref.org/basic/#add) -
 
-[git commit [-a] -m "Describe what you did."]() -
+[git diff](http://gitref.org/basic/#diff) - 
 
-[git checkout name-of-file]() -
+[git commit [-a] -m "Describe what you did."](http://gitref.org/basic/#commit) -
 
-[git push]() -
+[git checkout name-of-file](http://gitref.org/branching/#branch) -
 
-[git pull]() -
+[git push](http://gitref.org/remotes/#push) -
+
+[git pull](http://gitref.org/remotes/#push) -
